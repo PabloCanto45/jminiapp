@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Order
-{
+    {
     private String orderID;
     private String date;
     private List<Product> productList;
@@ -62,4 +62,4 @@ public class Order
         {
         return productList;
         }
-}
+    }
