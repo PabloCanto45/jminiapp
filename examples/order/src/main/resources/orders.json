@@ -1,0 +1,29 @@
+[
+  {
+    "orderID": "ORD-002",
+    "date": "2025-12-05",
+    "productList": [
+      {
+        "name": "Pepperoni Pizza",
+        "price": 120.0
+      },
+      {
+        "name": "Pepperoni Pizza",
+        "price": 120.0
+      },
+      {
+        "name": "Can of Soda",
+        "price": 25.0
+      },
+      {
+        "name": "Can of Soda",
+        "price": 25.0
+      },
+      {
+        "name": "Can of Soda",
+        "price": 25.0
+      }
+    ],
+    "totalAmount": 315.0
+  }
+]
